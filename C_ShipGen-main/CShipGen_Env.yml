@@ -1,0 +1,14 @@
+name: CSHipGen_Env
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - tqdm
+  - matplotlib
+  - pytorch
+  - scikit-learn
+  - numpy-stl
+  - multiprocess
+  - pymoo
+
+  
